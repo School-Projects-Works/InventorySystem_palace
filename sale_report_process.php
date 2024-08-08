@@ -79,7 +79,7 @@ $results = '';
   <?php if($results): ?>
     <div class="page-break">
        <div class="sale-head">
-           <h1>Inventory Management System - Sales Report</h1>
+           <h1>Palace Mall Inventory Management - Sales Report</h1>
            <strong><?php if(isset($start_date)){ echo $start_date;}?> TILL DATE <?php if(isset($end_date)){echo $end_date;}?> </strong>
        </div>
       <table class="table table-border">
